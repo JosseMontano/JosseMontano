@@ -16,10 +16,10 @@
 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/gophers/ladder.svg" alt="angular" width="40" height="40"/> </a>
 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/800px-.NET_Core_Logo.svg.png" alt="angular" width="40" height="40"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/800px-.NET_Core_Logo.svg.png" alt="angular" width="40" height="40"/>
 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="angular" width="40" height="40"/> </a>
+ <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="angular" width="40" height="40"/>
 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="angular" width="40" height="40"/> </a>
+ <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="angular" width="40" height="40"/> 
   
 </p>
