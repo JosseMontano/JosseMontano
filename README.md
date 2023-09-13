@@ -13,9 +13,9 @@ div{
 }
 
 <div>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+ <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1200/1*y6C4nSvy2Woe0m7bWEn4BA.png" alt="angular" width="40" height="40"/> </a>
+ <img src="https://miro.medium.com/v2/resize:fit:1200/1*y6C4nSvy2Woe0m7bWEn4BA.png" alt="angular" width="40" height="40"/>
 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/gophers/ladder.svg" alt="angular" width="40" height="40"/> </a>
 
