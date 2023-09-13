@@ -10,16 +10,16 @@
 
 
 <div style="display:flex;">
- <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+ <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/> 
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="angular" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" width="60" height="60"/>
  
-<img src="https://mlohrktvfr9b.i.optimole.com/cb:5Boq.164d9/w:auto/h:auto/q:75/f:avif/https://www.nerdstickers.com.br/wp-content/uploads/2022/10/products-167-Golang-01.png" alt="angular" width="40" height="40"/>
+<img src="https://mlohrktvfr9b.i.optimole.com/cb:5Boq.164d9/w:auto/h:auto/q:75/f:avif/https://www.nerdstickers.com.br/wp-content/uploads/2022/10/products-167-Golang-01.png" alt="golang" width="60" height="60"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/800px-.NET_Core_Logo.svg.png" alt="angular" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/800px-.NET_Core_Logo.svg.png" alt="net" width="60" height="60"/>
 
- <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="angular" width="40" height="40"/>
+ <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="sass" width="60" height="60"/>
 
- <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="angular" width="40" height="40"/> 
+ <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgres" width="60" height="60"/> 
   
 </p>
