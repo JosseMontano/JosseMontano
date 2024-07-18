@@ -14,7 +14,7 @@
  
 <img src="https://mlohrktvfr9b.i.optimole.com/cb:5Boq.164d9/w:auto/h:auto/q:75/f:avif/https://www.nerdstickers.com.br/wp-content/uploads/2022/10/products-167-Golang-01.png" alt="golang" width="60" height="60"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/800px-.NET_Core_Logo.svg.png" alt="net" width="60" height="60"/>
+<img src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" alt="net" width="60" height="60"/>
 
  <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="sass" width="60" height="60"/>
 
