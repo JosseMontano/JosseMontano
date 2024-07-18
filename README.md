@@ -2,7 +2,7 @@
 
 <h2>A fullstack developer from Bolivia</h3>
 
-- 🔭 I’m currently working on <a href="https://www.linkedin.com/company/gamcochabamba/mycompany/" target="_blank">Alcaldia de cochabamba</a>
+- 🔭 I’m currently working on <a href="https://jfm.dk/" target="_blank">JFM</a>
 - 🌱 I’m currently learning Svelte
 - 💬 Send me a <a href="https://www.linkedin.com/in/jos%C3%A9-zambrana-bb08501b6/" target="_blank">message</a>
 
